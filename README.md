@@ -1,16 +1,2 @@
-# coffee1
-
-A new Flutter Coffee project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-11 at 15 26 58](https://github.com/itprojectmanagementbykzn/coffee1/assets/100278037/26503c00-4023-4dbc-a894-bcbd1ff5b0f6)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-11 at 15 27 02](https://github.com/itprojectmanagementbykzn/coffee1/assets/100278037/c28feba3-089c-4d6c-b38e-8f3232cdf7c0)
